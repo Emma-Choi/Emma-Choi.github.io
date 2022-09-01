@@ -1,2 +1,7 @@
-# Emma-Choi.github.io
-Researcher website
+![Image of Emma Choi](images/headshot.png
+"REPLACE_WITH_SHORT_DESCRIPTION")
+## About Me
+I am a PHD student in the UConn EEB department
+interested in host-parasite coevolution.
+[My CV](PDFs/cv.pdf)
+[Contact Info](contact-info.html)
