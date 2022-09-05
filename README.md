@@ -1,4 +1,4 @@
-![Image of Emma Choi](images/headshot.png
+![Image of Emma Choi](images/headshot.jpg
 "REPLACE_WITH_SHORT_DESCRIPTION")
 ## About Me
 I am a PHD student in the UConn EEB department
